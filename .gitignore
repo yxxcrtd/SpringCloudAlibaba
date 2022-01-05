@@ -18,4 +18,5 @@ build/
 bin/
 .settings
 .vscode
+.http
 
